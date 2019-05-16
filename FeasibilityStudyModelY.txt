@@ -1,0 +1,169 @@
+﻿Technische Universität Berlin
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+Ahmet Kerem Aksoy
+
+
+17.05.2019
+
+
+
+
+
+
+Supervised by
+Prof. Dr. Søren Salomo , P. Emmerich
+
+
+
+
+
+
+  
+
+Figure 1
+
+
+
+
+Feasibility Study
+Tesla Model Y
+
+
+Technical Study:
+The required technical and practical knowledge as well as the resources can be divided into 6 main groups. Battery, software, body, interior and electric motors, electronics.
+
+
+The same Long-Range battery pack as Model 3 can be used but this will cause a slightly shorter range due to the size of Model Y. That is why a larger battery can be used for Tesla Model Y. The desired volume of production can be handled by Tesla Gigafactory with ease. Charging of these batteries can also be available for Model Y owners at Tesla's Supercharger network of fast-chargers with drivers being charged by the kilowatt-hour like they are for most other Tesla models.
+Like the previous Tesla cars, Model Y should come standard with emergency braking, collision warning, blind-spot monitoring and more. Model Y should have Full Self-Driving capability, enabling automatic driving on city streets and highways pending regulatory approval, as well as the ability to come find you anywhere in a parking lot. The needed software is already developed and in the process of improvements. Tesla’s software and hardware developers are already experts in the needed area and we do not need any additional developers.
+
+
+Since the body design will be very similar to Tesla Model 3, we can take advantage of some Model 3 parts in order to facilitate Model Y production and improve economies of scale. When it comes to other parts, the already designed body for the previous Tesla models can be modified and used in the production. The new parts special to Model Y will be designed and produced from scratch. Making a brand new platform for Model Y with less wiring harness in order to facilitate automating the manufacturing process may also be a good idea.
+
+
+The interior of Model Y will be simple and clean. The same or similar parts as in other models can be used such as seats, the 15-inch touch, similar to the one found in the Model 3 and an all-glass roof. In fact, the Model Y's interior can appear to be lifted straight out of the Model 3, since the customer and media feedback was very good with Model 3. This also makes sense, as the Model 3 and Model Y are supposed to be the most affordable models yet and it is a good idea to gain cost efficiency through sharing parts. Model Y will also provide a version with an additional row which can carry 7 passengers as an option.
+
+
+Model Y will have two independent electric motors with All-Wheel Drive technology. Tesla is already one of the biggest electric motor producers in the world right now, so the technical as well as the practical knowledge and hardware to produce the electric motors is currently in-house.
+
+
+The electronic parts that will be used in Model Y are nearly the same parts that are used in the previous models. They are being tested and used on other Tesla models already. Since the main electronic structure of Model Y will be same as other Tesla models, the same electronic parts that are used in other models can be used mostly without a problem.
+
+
+Model Y can use about 75 percent of the same parts as the Model 3, so it should help to keep expenses low while garnering a larger -though still relatively affordable- base price. (Source 1)
+
+
+Economic Study:
+-Capacity Study:
+As mentioned in the technical study, the required components for Model Y are: Battery, software, various body and interior parts, electric motors and electronics.
+Tesla has a huge battery production capacity because of the Gigafactory but if the sales will be more than we have expected, Gigafactory may have to work overtime. The software of the car is already developed and constantly evolving to a better result, so the software is already in hand. Some of the body and interior parts are already produced and some of them should be recreated and produced in Tesla factories. For the needed electronic parts from different manufacturers, multiple orders should be placed. The main missing part is electronic motors with newer technology but since Tesla is really experienced in this field, it does not seem like a problem. The personnel for the production and development is sufficient.
+
+
+-Time Study:
+A very similar project to this is the Tesla Model 3 project which has a longer project duration. Since Model Y is basically the SUV version of Model 3 and we will use a lot of already developed and produced parts of Model 3, the predetermined time frame is more than enough to carry out the shipments, developments and productions to be made.    
+
+
+-Market Analysis:
+--Market Research:
+SUVs are immensely popular across the globe—with their market share of passenger car sales rising from 22% to more than 30% since 2014, according to data from research firm JATO Dynamics. A cheaper SUV could help Tesla capture more of that market than its premium Model X SUV, as it preps for fierce competition from fossil-fuel car players who are going electric. (Source 2) In this case this SUV can be Model Y with a low price tag.
+Tesla’s Model 3 was not only the best-selling electric but also the best-selling luxury car in America in 2018. (Source 1) People waiting for an electric car from Tesla with a lower price tag. What we did in Sedan field with Model 3, we can do it in the field of SUVs with Model Y.
+
+
+--Benchmark Analysis:
+
+
+
+
+	Battery
+	Base price
+	Range
+	Tesla Model Y
+	60 kwh
+	$39,000
+	370 km
+	Jaguar I-PACE
+	90 kwh
+	$69,500
+	377 km
+	Audi e-tron
+	95 kWh
+	$74,800 
+	At least 322 km
+	Hyundai Kona Electric
+	64 kWh
+	$44,650
+	415 km
+	(Source 3)
+
+
+The new Jaguar I-PACE is perhaps the closest to the Model Y in terms of performance, especially when comparing the initial upper-spec offerings from Tesla. The base I-PACE model rings in at essentially $70,000, making it more expensive right out of the gate than a top-tier Model Y Performance before any options. (Source 3) Although I-PACE’s battery capacity is more than Model Y’s, it offers almost the same range and I-PACE is still more expensive.
+Audi e-tron falls short of Model Y’s performance and range claim in spite of a bigger battery and more expensive price tag.
+Hyundai Kona Electric is the only car in this list that can compete with Model Y price-wise. Although Hyundai claims a range of 415 km, in the real-world tests in several situations the car has a range between 280 and 390 km (Source 4). That means Hyundai Kona Electric can compete with our Model Y on paper.    
+Tesla Model Y is good enough for customers who want to buy the base model. The car will perform even better with options, additional features and just a little price bump.
+
+
+Legal Study:
+There are no legal conditions found that may restrict the course of the project in any way. We are confident that this is the case but we should be careful with every step we take. Although a securities fraud lawsuit filed by shareholders against Tesla in 2017 claiming misleading comments previously made about Model 3 production readiness has been dismissed by U.S. District Judge Charles Breyer of the Northern District of California (Source 5), we, as a company, do not want to deal with such an accusation again.
+Maybe the most important aspect to consider is the quality of the Auto-pilot system in Model Y. Because most of the lawsuits that are filed against Tesla’s previous models are related to the crashes that are allegedly caused by the Auto-pilot system. Although the Auto-pilot systems of Tesla cars are pretty advanced, they are still under development. Our software should not promise more than it can handle. Otherwise we can run across similar lawsuits as we encounter with other models.            
+
+
+Environmental Study:
+Like other cars of Tesla, Model Y also uses electric motors. An electric vehicle is without a doubt the better environmental choice. Tesla currently manufactures vehicles in California and batteries in Nevada. The Nevada battery Gigafactory will be 100% renewably powered with a 70MW solar array and have on site recycling. The Freemont California grid is actually already very clean with 70% from non-fossil fuels (which partially explains the lack of solar there). If Tesla keeps producing the batteries of the car in Gigafactory and let the customers charge these batteries at Supercharger stations, Model Y will be as much environmentally friendly as the other models of Tesla’s are. 
+
+
+
+
+
+
+
+
+Social Study:
+
+
+Tesla passionately believes that electric vehicles are better, quicker and more fun to drive than their fossil-fuelled counterparts – and it’s aiming for greater accessibility and affordability to achieve its mission which is to “accelerate the world’s transition to sustainable energy”. Tesla’s values are fuelled by its groundbreaking mission: sustainability through innovation. For those who really believe in global sustainability, being a direct part of this environmental enterprise is enough. By continually emphasising Tesla’s mission, the team is rewarded by the knowledge that it’s playing a part in reshaping green technology. (Source 7)
+Because of the above mentioned reasons, adding Model Y to the existing Tesla serie is nothing more than a contribution to the mission of the company and the project stakeholders.   
+
+
+Risk-related Study:
+3 major challenges in the project are: 
+Minimizing or eliminating the car crashes caused by the failure of the autonomous driving system. In case of an unexpected number of Model Y sells, making sure that the battery manufacturing capacity and speed are enough at Gigafactory. Competing with long-established car companies such as Hyundai, Audi and Jaguar in terms of car performance.
+The first problem can be solved by further development of the Auto-pilot system that is being used in the car. The software is already very good and causes barely problems in edge cases. There is plenty of time to eliminate the errors till the car is out. The second challenge can be solved by analysing the real capacity of the Gigafactory and accordingly regulate the manufacturing speed. The second point like mentioned will be a problem if the sells of Model Y increase rapidly, which is to a certain point a good thing but if it passes that level some precautions should be taken such as increasing the manufacturing capacity of the factory. When it comes to the third challenge, Tesla is already pretty strong and popular in the United States and Model y has an aggressive price tag. An electric SUV at this price point and this quality will easily dominate its opponents in the U.S. market. In China which is Tesla’s biggest overseas market, the customers can be gained by a more aggressive pricing policy.     
+ 
+Is it feasible for the project to continue despite challenges and risks?
+With the technical, practical knowledge and the huge production chain that is owned by Tesla, the project Model Y is totally feasible. It is in fact necessary to make this project happen, since the market and customers are ready for the product. 
+
+
+Sources:
+Source 1: https://qz.com/1574035/teslas-biggest-overseas-market-is-kind-of-bored-by-model-y/
+Source 2: 
+https://www.vox.com/2019/3/14/18265486/tesla-model-y-elon-musk-new-reveal-charts
+Source3:
+https://www.forbes.com/sites/billroberson/2019/03/17/its-the-tesla-model-y-versus-the-competition-now-that-there-actually-is-some-finally/#113a2889786b
+Source 4:
+https://ev-database.org/car/1126/Hyundai-Kona-Electric-64-kWh
+Source 5:
+https://www.teslarati.com/tesla-lawsuit-dismissal-model-3-production/
+Source 6:
+https://www.teslarati.com/tesla-greener-think-getting-greener-look-manufacturing/
+Source 7:
+https://peakon.com/blog/workplace-culture/tesla-company-culture/
+Figure 1 source:
+https://www.engadget.com/2019/03/14/tesla-unveils-its-model-y-crossover/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAANOs96hNUzbXP6pSy3uqxb_I21z4l5rCLItf0g4DahcCxBMzFcY4GGv4dp_EsjWSWDi7uLk_J9s8N_kNyDnWuChwFIApLROtZ_tSqpRjbbJrADKsgDF92D3sSLFCz6sw3hWltuaLg_f6v5537HmE7Nd4V_N-aJDB4-42tMEB0UKu
